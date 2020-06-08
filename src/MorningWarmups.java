@@ -8,3 +8,4 @@ public class MorningWarmups {
 
 // creat a java class named MorningWarmups. In the main method, creat a loop that prints out numbers 1-50, counting by 5's.
 
+
