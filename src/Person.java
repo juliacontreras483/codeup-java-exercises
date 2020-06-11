@@ -66,3 +66,37 @@ public class Person {
 //              - analyzeDishCost() - that takes in a Dish object and will print out either "More expensive than average" or "Less expensive than average", depending on the value of the dish costInCents compared to AVERAGE_COST_OF_DISH_IN_CENTS
 //              - flipRecommendation() - that takes in a Dish object and reverses the wouldRecommend boolean value
 //              Try out the DishTools methods with Dish objects in the DishTest main method
+
+
+
+
+//wednesday extra practice work
+//================================= OOP CHALLENGES
+//        Create a text adventure game using custom classes and objects (e.g. Character, Enemy, Item, Game, etc.)
+//        Create a MadLib generator program
+//        10:01
+//        ================================= OOP PRACTICE RECOMMENDATIONS
+//        Objects are simply a way of representing state and behavior. To practice writing objects, it helps in the beginning to write objects that represent tangible things like animals, people, cars, etc. With that in mind, until you can write a class quickly and create objects from it, choose a real world concept and do the following...
+//        1. add three instance variables set to private of at least two primitive types
+//        2. add 2 instance methods that affect one or more instance variables
+//        3. add 1 static constant that makes sense for the given class
+//  4. add 1 static method that makes sense for the given class
+//  5. add an empty constructor and a constructor that sets all instance variables
+//          6. add getters and setters for all instance variables
+//          7. add main method to create the objects
+//          Here are some class suggestions:
+//        User
+//        Product
+//        Comment
+//        Post
+//        Car
+//        Pet
+//        Radio
+//        SodaCan
+//        Table
+//        Remote
+//        Building
+//        Toy
+//        Food
+//        Animal
+//        Location
