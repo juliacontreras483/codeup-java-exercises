@@ -89,7 +89,7 @@ public class Person {
 //        Product
 //        Comment
 //        Post
-//        Car
+//        inheritanceLecture.Car
 //        Pet
 //        Radio
 //        SodaCan

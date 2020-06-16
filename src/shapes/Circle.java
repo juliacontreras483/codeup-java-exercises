@@ -1,4 +1,4 @@
-//package shapes;
+package shapes;//package shapes;
 
 public class Circle {
 

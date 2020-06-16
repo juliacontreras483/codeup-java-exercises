@@ -65,10 +65,10 @@
 //
 ////        System.out.println(instructors[2].getLastName());
 //
-////        creating an Array of Car objects
-//        Car[] myCars = {new Car(), new Car(), null, null};
+////        creating an Array of inheritanceLecture.Car objects
+//        inheritanceLecture.Car[] myCars = {new inheritanceLecture.Car(), new inheritanceLecture.Car(), null, null};
 ////        instantiate a new Object
-//        myCars[2] = new Car();
+//        myCars[2] = new inheritanceLecture.Car();
 //        myCars[2].setMake("Nissan");
 //        myCars[2].setModel("Rogue");
 //        myCars[2].setYear(2017);
@@ -76,8 +76,8 @@
 //        System.out.println(myCars[2].getModel());
 //        System.out.println(myCars[2].getYear());
 //
-//        Car marksCar = myCars[0];
-////        marksCar[0] = new Car();
+//        inheritanceLecture.Car marksCar = myCars[0];
+////        marksCar[0] = new inheritanceLecture.Car();
 //        marksCar.setMake("Ford");
 //        System.out.println(marksCar.getMake());
 //        System.out.println(myCars[1].getMake());
