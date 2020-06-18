@@ -19,26 +19,26 @@ package shapes;
 //    }
 //}
 
-public class Rectangle extends Quadrilateral implements Measurable {
-    @Override
-    public void setLength(double 1){
-        this.length = 1;
-    }
-
-    @Override
-    public void setWidth(double w){
-        this.width = w;
-    }
-
-    @Override
-    public void getPerimeter(){
-        this.eidth = w;
-    }
-
-    @Override
-    public void getArea(double w){
-        this.eidth = w;
-    }
-
-}
+//public class Rectangle extends Quadrilateral implements Measurable {
+//    @Override
+//    public void setLength(double 1){
+//        this.length = 1;
+//    }
+//
+//    @Override
+//    public void setWidth(double w){
+//        this.width = w;
+//    }
+//
+//    @Override
+//    public void getPerimeter(){
+//        this.eidth = w;
+//    }
+//
+//    @Override
+//    public void getArea(double w){
+//        this.eidth = w;
+//    }
+//
+//}
 
