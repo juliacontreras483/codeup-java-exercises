@@ -1,6 +1,14 @@
-public class Person {
+//public class Person {
+//}
+class Person {
+    private String name;
+    public Person(String name) {
+        this.name = name;
+    }
+    public String getName() {
+        return name;
+    }
 }
-
 
 //6/9-6/10
 
